@@ -1,0 +1,29 @@
+D:\Учёба\Course 3\БД\CourseProject\CourseProject\bin\CourseProject.dll
+D:\Учёба\Course 3\БД\CourseProject\CourseProject\bin\CourseProject.pdb
+D:\Учёба\Course 3\БД\CourseProject\CourseProject\obj\Debug\CourseProject.dll
+D:\Учёба\Course 3\БД\CourseProject\CourseProject\obj\Debug\CourseProject.pdb
+D:\Учёба\Course 3\БД\CourseProject\CourseProject\obj\Debug\CourseProject.csproj.ResolveComReference.cache
+F:\Course 3\БД\CourseProject\CourseProject\bin\CourseProject.dll
+F:\Course 3\БД\CourseProject\CourseProject\bin\CourseProject.pdb
+F:\Course 3\БД\CourseProject\CourseProject\obj\Debug\CourseProject.csproj.ResolveComReference.cache
+F:\Course 3\БД\CourseProject\CourseProject\obj\Debug\CourseProject.dll
+F:\Course 3\БД\CourseProject\CourseProject\obj\Debug\CourseProject.pdb
+F:\Course 3\БД\CourseProject\CourseProject\obj\Debug\CourseProject.csprojResolveAssemblyReference.cache
+D:\Study\12.12 12.01\CourseProject\CourseProject\bin\CourseProject.dll
+D:\Study\12.12 12.01\CourseProject\CourseProject\bin\CourseProject.pdb
+D:\Study\12.12 12.01\CourseProject\CourseProject\obj\Debug\CourseProject.csprojResolveAssemblyReference.cache
+D:\Study\12.12 12.01\CourseProject\CourseProject\obj\Debug\CourseProject.csproj.ResolveComReference.cache
+D:\Study\12.12 12.01\CourseProject\CourseProject\obj\Debug\CourseProject.dll
+D:\Study\12.12 12.01\CourseProject\CourseProject\obj\Debug\CourseProject.pdb
+D:\study\Новая папка\12.12 12.01\CourseProject\CourseProject\bin\CourseProject.dll
+D:\study\Новая папка\12.12 12.01\CourseProject\CourseProject\bin\CourseProject.pdb
+D:\study\Новая папка\12.12 12.01\CourseProject\CourseProject\obj\Debug\ResolveAssemblyReference.cache
+D:\study\Новая папка\12.12 12.01\CourseProject\CourseProject\obj\Debug\CourseProject.csproj.ResolveComReference.cache
+D:\study\Новая папка\12.12 12.01\CourseProject\CourseProject\obj\Debug\CourseProject.dll
+D:\study\Новая папка\12.12 12.01\CourseProject\CourseProject\obj\Debug\CourseProject.pdb
+D:\study\CourseProject_Oblovatska\CourseProject_db\CourseProject\CourseProject\bin\CourseProject.dll
+D:\study\CourseProject_Oblovatska\CourseProject_db\CourseProject\CourseProject\bin\CourseProject.pdb
+D:\study\CourseProject_Oblovatska\CourseProject_db\CourseProject\CourseProject\obj\Debug\CourseProject.csprojResolveAssemblyReference.cache
+D:\study\CourseProject_Oblovatska\CourseProject_db\CourseProject\CourseProject\obj\Debug\CourseProject.csproj.ResolveComReference.cache
+D:\study\CourseProject_Oblovatska\CourseProject_db\CourseProject\CourseProject\obj\Debug\CourseProject.dll
+D:\study\CourseProject_Oblovatska\CourseProject_db\CourseProject\CourseProject\obj\Debug\CourseProject.pdb
